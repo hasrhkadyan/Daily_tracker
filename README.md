@@ -1,5 +1,5 @@
 # Daily_tracker
 It is the tracker for my daily study updates
 
-#Date - 27/May/2026
-Day 1 study update - JS loops & OS Unit 1
+27 May 2026 || JS loops & OS Unit 1
+28 May 2026 || Solved Two Sum array problem in C , Practiced git add, commit, and push commands
